@@ -1,3 +1,6 @@
+---
+layout: null
+---
 # Logic Sovereignty
 
 **Decoupling Intelligence from the Source Code**
