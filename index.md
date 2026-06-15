@@ -1,3 +1,10 @@
+Markdown
+
+---
+layout: default
+title: Home
+permalink: /
+---
 ---
 layout: home
 title: Logic Sovereignty
