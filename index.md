@@ -1,14 +1,8 @@
-Markdown
-
----
-layout: default
-title: Home
-permalink: /
----
 ---
 layout: home
 title: Logic Sovereignty
 nav_order: 1
+permalink: /
 ---
 
 # Logic Sovereignty
