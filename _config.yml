@@ -1,3 +1,4 @@
-theme: jekyll-theme-cayman
 title: Logic Sovereignty
-description: Decoupling Intelligence from the Source Code
+theme: just-the-docs
+just_the_docs:
+  color_scheme: dark
